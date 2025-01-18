@@ -1,7 +1,6 @@
 ## Olá eu sou o Jaowzy (João Vitor)
 
-- 🌱 Estudando JavaScript
-- 😄 Pronouns: ele/dele
+Desenvolvedor Back-End em Formação | Aprendendo JavaScript | Apaixonado por Tecnologia e Soluções Inovadoras
 
 ##
 
