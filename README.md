@@ -1,9 +1,11 @@
 ## Olá eu sou o Jaowzy (João Vitor)
 
-- 🌱 Estudando JavaScript
+- 🌱 Estudando Java
 - 😄 Pronouns: ele/dele
 
-- Estudante de Análise e Desenvolvimento de Sistemas, com experiência nas áreas de telecomunicações, análise de dados, gestão de equipes e controle de prazos. Apaixonado por tecnologia e inovação, destaco-me pela facilidade em aprender novas habilidades, adaptabilidade a diferentes desafios e agilidade na execução de tarefas. Comprometido com a melhoria contínua, busco aplicar meus conhecimentos para promover soluções eficientes e contribuir para o crescimento das organizações.
+- Desenvolvedor Back-End Java em formação, apaixonado por criar soluções robustas e escaláveis. Com evoluções nos conhecimentos em Java, Spring Boot, APIs RESTful e experiência com bancos de dados como MySQL, busco aprofundar minhas habilidades no desenvolvimento de sistemas distribuídos e microsserviços.
+
+- Sou proativo, com grande facilidade em aprender novas tecnologias, adaptabilidade a diferentes desafios e agilidade na execução de tarefas. Meu objetivo é aplicar meus conhecimentos para desenvolver software de alta qualidade e contribuir para o sucesso de equipes inovadoras.
 
 ##
 
