@@ -1,7 +1,6 @@
 ## Olá eu sou o Jaowzy (João Vitor)
 
 - 🌱 Estudando Java
-- 😄 Pronouns: ele/dele
 
 - Desenvolvedor Back-End Java em formação, apaixonado por criar soluções robustas e escaláveis. Com evoluções nos conhecimentos em Java, Spring Boot, APIs RESTful e experiência com bancos de dados como MySQL, busco aprofundar minhas habilidades no desenvolvimento de sistemas distribuídos e microsserviços.
 
