@@ -1,4 +1,4 @@
-## Olá eu sou o Jaowzy (João Vitor)
+## Olá eu sou o João Vitor
 
 - 🌱 Estudando Java
 
