@@ -1,28 +1,90 @@
-## Olá eu sou o João Vitor
+# Olá, eu sou o João Vitor 👋
 
-- 🌱 Estudando Java
+### Full Stack Developer | Business Automation | IT Infrastructure
 
-- Desenvolvedor Back-End Java em formação, apaixonado por criar soluções robustas e escaláveis. Com evoluções nos conhecimentos em Java, Spring Boot, APIs RESTful e experiência com bancos de dados como MySQL, busco aprofundar minhas habilidades no desenvolvimento de sistemas distribuídos e microsserviços.
+Sou Desenvolvedor Full Stack e profissional de TI, com foco na criação de aplicações que resolvem problemas reais e automatizam processos empresariais.
 
-- Sou proativo, com grande facilidade em aprender novas tecnologias, adaptabilidade a diferentes desafios e agilidade na execução de tarefas. Meu objetivo é aplicar meus conhecimentos para desenvolver software de alta qualidade e contribuir para o sucesso de equipes inovadoras.
+Atualmente, concilio desenvolvimento de software com atividades de infraestrutura de TI, criando soluções para gestão operacional, atendimento interno, controle de estoque e análise de informações.
 
-##
+Tenho interesse em engenharia de software, arquitetura de sistemas, integração de APIs, automação e segurança da informação.
 
-<div style="display: inline_block"><br>
-      <img align="center" alt="Jaowzy.Js height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
-      <img align="center" alt="Jawzy.Js heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
-      <img align="center" alt="Jawzy.Js heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-      <img align="center" alt="Jawzy.Js heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
-      <img align="center" alt="Jawzy.Js heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-      <img align="center" alt="Jawzy.Js heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
-      <img align="center" alt="Jaowzy.Js height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-</div>
+## 🛠️ Tecnologias e ferramentas
 
-##
+**Frontend**
+- React, Next.js, TypeScript, JavaScript
+- HTML, CSS e Tailwind CSS
 
-<div>
-  <a href="https://www.linkedin.com/in/jaowzy" target="_blank">
-            <img align="center" alt="Jaowzy.li height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" target="_blank"></a>
-</div>
+**Backend**
+- Python, Flask, FastAPI
+- Node.js e NestJS
+- Java e Spring Boot
+- APIs REST
 
+**Banco de dados**
+- PostgreSQL, MySQL
+- Prisma ORM, SQLAlchemy
+- Neon e Supabase
 
+**Infraestrutura e DevOps**
+- Git, GitHub, Docker
+- Vercel, Render, Cloudflare
+- Windows Server, PowerShell
+- MikroTik, VPN e redes corporativas
+
+**Engenharia de software**
+- Modelagem de dados
+- Autenticação e autorização
+- Testes automatizados
+- Integração de sistemas
+- Segurança de aplicações
+- Automação de processos
+
+## 🚀 Projetos em destaque
+
+### Helpdesk & IT Inventory
+[Repositório](https://github.com/jaowzy/helpdesk)
+
+Portal de suporte técnico com gerenciamento de chamados, Kanban operacional, controle de permissões e inventário de ativos. Inclui integração com agente Windows em PowerShell para coleta de telemetria.
+
+**Stack:** Python, Flask, PostgreSQL, Neon, PowerShell.
+
+### Portal de Devoluções, SAC e Ocorrências
+[Repositório](https://github.com/jaowzy/DEVOLUCAO-ELMAESTRO)
+
+Aplicação corporativa para centralização de processos de devolução, atendimento e ocorrências, com regras de negócio, rastreabilidade, auditoria e relatórios gerenciais.
+
+**Stack:** React, TypeScript, NestJS, PostgreSQL e Cloudflare R2.
+
+### Mini WMS — Warehouse Management System
+[Repositório](https://github.com/jaowzy/WMS)
+
+Sistema de gerenciamento de estoque em evolução, com endereçamento, identificação de paletes, picking fracionado, movimentações transacionais e rastreabilidade.
+
+**Stack:** Next.js, React, TypeScript, PostgreSQL, Prisma e Tailwind CSS.
+
+### Cartório Checklist
+[Repositório](https://github.com/jaowzy/cartorio-checklist)
+
+Aplicação web para organizar procedimentos e checklists de Tabelionato de Notas e Protesto, com modelos editáveis, etapas condicionais, autenticação e interface responsiva.
+
+**Stack:** Next.js, TypeScript, PostgreSQL, Prisma e Tailwind CSS.
+
+### Maestro People & Payroll
+[Repositório](https://github.com/jaowzy/RH_ELMAESTRO)
+
+Sistema para gestão de colaboradores e estrutura organizacional, com API, autenticação JWT e perfis de acesso.
+
+**Stack:** React, Python, FastAPI e PostgreSQL.
+
+## 🎯 Áreas de interesse
+
+- Desenvolvimento Full Stack e Backend
+- Sistemas corporativos e automação
+- Arquitetura de software e APIs
+- Bancos de dados e integração de sistemas
+- Infraestrutura e segurança
+- Inteligência artificial aplicada ao desenvolvimento
+
+## 📫 Contato
+
+[LinkedIn](https://www.linkedin.com/in/jaowzy) | [GitHub](https://github.com/jaowzy)
